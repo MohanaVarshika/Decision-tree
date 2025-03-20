@@ -99,5 +99,6 @@ A sample flower measurement ([5.1, 3.5, 1.4, 0.2]) is used to predict the flower
 # OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/6f010d56-3ae0-419e-8406-313c5d8f71d0)
+![Image](https://github.com/user-attachments/assets/cd6c94d9-e4b0-4f71-b0db-e5116337076a)
 
 
